@@ -1,6 +1,8 @@
 # neural-network-projects
 
-This is my collection of Neural Networks mini-projects as I'm learning NN, DNN, CNN and RNN. I hope you will find them useful as you embark on the same journey.
+This is my collection of Neural Networks mini-projects as I'm learning NN, DNN, CNN and RNN. 
+
+I have learnt a lot about Neural Networks from [Jason's](http://machinelearningmastery.com/) blog. These mini-projects are available on Jason's website. After experimenting with each tutorial I have them here for quick future reference.
 
 Recommended order for exploring these projects is as follows:
 
